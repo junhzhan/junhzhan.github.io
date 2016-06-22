@@ -4,9 +4,9 @@
   <subtitle>something like Octocat</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://blog.junzhan.cn/"/>
-  <updated>2016-06-21T05:50:26.730Z</updated>
-  <id>http://blog.junzhan.cn/</id>
+  <link href="https://junhzhan.github.io/"/>
+  <updated>2016-06-21T08:59:38.094Z</updated>
+  <id>https://junhzhan.github.io/</id>
   
   <author>
     <name>小豪</name>
@@ -17,10 +17,10 @@
   
   <entry>
     <title>JSX 如何在浏览器运行</title>
-    <link href="http://blog.junzhan.cn/2016/06/20/react-initial/"/>
-    <id>http://blog.junzhan.cn/2016/06/20/react-initial/</id>
+    <link href="https://junhzhan.github.io/2016/06/20/react-initial/"/>
+    <id>https://junhzhan.github.io/2016/06/20/react-initial/</id>
     <published>2016-06-20T15:23:20.000Z</published>
-    <updated>2016-06-21T05:50:26.730Z</updated>
+    <updated>2016-06-21T08:59:38.094Z</updated>
     
     <content type="html">&lt;p&gt;今天第一次看React，接触了 JSX 这门『语言』。实际上，JSX 是 JavaScript 的语法扩展（sytax sugar），JS 引擎不会直接运行 JSX 代码，一般情况下，用 JSX 写的&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;代码需要通过 web 打包工具编译成基本 JS 代码后才能运行，而为了提高效率，这种编译都是在服务端做的。&lt;/p&gt;
 &lt;p&gt;React 官方教程 &lt;a href=&quot;https://facebook.github.io/react/docs/getting-started.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Get Started&lt;/a&gt; 为了让新手容易上手，直接在 &lt;code&gt;html&lt;/code&gt; 中引入了编译器，代码如下所示：&lt;br&gt;&lt;figure class=&quot;highlight java&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;keyword&quot;&gt;public&lt;/span&gt; &lt;span class=&quot;class&quot;&gt;&lt;span class=&quot;keyword&quot;&gt;class&lt;/span&gt; &lt;span class=&quot;title&quot;&gt;Test&lt;/span&gt; &lt;/span&gt;&amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;/p&gt;
@@ -42,7 +42,7 @@
     </summary>
     
     
-      <category term="React" scheme="http://blog.junzhan.cn/tags/React/"/>
+      <category term="React" scheme="https://junhzhan.github.io/tags/React/"/>
     
   </entry>
   
