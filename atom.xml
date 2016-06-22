@@ -4,9 +4,9 @@
   <subtitle>something like Octocat</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://blog.junzhan.cn/"/>
+  <link href="https://junhzhan.github.io/"/>
   <updated>2016-06-22T07:48:52.016Z</updated>
-  <id>http://blog.junzhan.cn/</id>
+  <id>https://junhzhan.github.io/</id>
   
   <author>
     <name>小豪</name>
@@ -17,8 +17,8 @@
   
   <entry>
     <title>Nginx 新手入门</title>
-    <link href="http://blog.junzhan.cn/2016/06/22/nginx-start/"/>
-    <id>http://blog.junzhan.cn/2016/06/22/nginx-start/</id>
+    <link href="https://junhzhan.github.io/2016/06/22/nginx-start/"/>
+    <id>https://junhzhan.github.io/2016/06/22/nginx-start/</id>
     <published>2016-06-22T07:45:20.000Z</published>
     <updated>2016-06-22T07:48:52.016Z</updated>
     
@@ -51,14 +51,14 @@
     </summary>
     
     
-      <category term="Nginx" scheme="http://blog.junzhan.cn/tags/Nginx/"/>
+      <category term="Nginx" scheme="https://junhzhan.github.io/tags/Nginx/"/>
     
   </entry>
   
   <entry>
     <title>JSX 如何在浏览器运行</title>
-    <link href="http://blog.junzhan.cn/2016/06/20/react-initial/"/>
-    <id>http://blog.junzhan.cn/2016/06/20/react-initial/</id>
+    <link href="https://junhzhan.github.io/2016/06/20/react-initial/"/>
+    <id>https://junhzhan.github.io/2016/06/20/react-initial/</id>
     <published>2016-06-20T15:23:20.000Z</published>
     <updated>2016-06-22T07:48:57.260Z</updated>
     
@@ -82,7 +82,7 @@
     </summary>
     
     
-      <category term="React" scheme="http://blog.junzhan.cn/tags/React/"/>
+      <category term="React" scheme="https://junhzhan.github.io/tags/React/"/>
     
   </entry>
   
